@@ -1,0 +1,222 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = EC56E594127FE086009E89BF /* Hello_World */;
+		activeTarget = 8DD76F620486A84900D96B5E /* Hello_World */;
+		addToTargets = (
+		);
+		breakpoints = (
+		);
+		codeSenseManager = EC56E599127FE0C8009E89BF /* Code sense */;
+		executables = (
+			EC56E594127FE086009E89BF /* Hello_World */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					833,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXSymbolsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXSymbolsDataSource_SymbolNameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					16,
+					200,
+					50,
+					281,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXSymbolsDataSource_SymbolTypeIconID,
+					PBXSymbolsDataSource_SymbolNameID,
+					PBXSymbolsDataSource_SymbolTypeID,
+					PBXSymbolsDataSource_ReferenceNameID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 323687226;
+			PBXWorkspaceStateSaveDate = 323687226;
+		};
+		perUserProjectItems = {
+			EC0AB1A612D6F1F400C74AA9 /* PBXTextBookmark */ = EC0AB1A612D6F1F400C74AA9 /* PBXTextBookmark */;
+			EC6810D5130A7AE60059F4BB /* PBXTextBookmark */ = EC6810D5130A7AE60059F4BB /* PBXTextBookmark */;
+			EC6810D7130A7AE60059F4BB /* PBXTextBookmark */ = EC6810D7130A7AE60059F4BB /* PBXTextBookmark */;
+			EC982E27134B143F00B9165B /* PBXTextBookmark */ = EC982E27134B143F00B9165B /* PBXTextBookmark */;
+			EC982E28134B143F00B9165B /* PBXTextBookmark */ = EC982E28134B143F00B9165B /* PBXTextBookmark */;
+			EC982E2A134B143F00B9165B /* PBXTextBookmark */ = EC982E2A134B143F00B9165B /* PBXTextBookmark */;
+		};
+		sourceControlManager = EC56E598127FE0C8009E89BF /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* main.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 527}}";
+			sepNavSelRange = "{265, 0}";
+			sepNavVisRange = "{0, 454}";
+		};
+	};
+	8DD76F620486A84900D96B5E /* Hello_World */ = {
+		activeExec = 0;
+		executables = (
+			EC56E594127FE086009E89BF /* Hello_World */,
+		);
+	};
+	EC0AB1A612D6F1F400C74AA9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EC0AB1A712D6F1F400C74AA9 /* vector */;
+		name = "vector: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1013;
+		vrLoc = 0;
+	};
+	EC0AB1A712D6F1F400C74AA9 /* vector */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.h;
+		name = vector;
+		path = "/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/vector";
+		sourceTree = "<absolute>";
+	};
+	EC56E594127FE086009E89BF /* Hello_World */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Hello_World;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	EC56E598127FE0C8009E89BF /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	EC56E599127FE0C8009E89BF /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	EC56E5A6127FE27F009E89BF /* makefile */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 434}}";
+			sepNavSelRange = "{128, 0}";
+			sepNavVisRange = "{0, 129}";
+		};
+	};
+	EC6810D5130A7AE60059F4BB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EC6810D6130A7AE60059F4BB /* main.s */;
+		name = "main.s: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 907;
+		vrLoc = 0;
+	};
+	EC6810D6130A7AE60059F4BB /* main.s */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.asm;
+		name = main.s;
+		path = "/Users/MH/Cpp/Hello_World/build/Hello_World.build/Debug/Hello_World.build/Objects-normal/x86_64/main.s";
+		sourceTree = "<absolute>";
+	};
+	EC6810D7130A7AE60059F4BB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EC56E5A6127FE27F009E89BF /* makefile */;
+		name = "makefile: 9";
+		rLen = 0;
+		rLoc = 128;
+		rType = 0;
+		vrLen = 129;
+		vrLoc = 0;
+	};
+	EC982E27134B143F00B9165B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 13";
+		rLen = 0;
+		rLoc = 265;
+		rType = 0;
+		vrLen = 454;
+		vrLoc = 0;
+	};
+	EC982E28134B143F00B9165B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EC982E29134B143F00B9165B /* LTPDAPreferences.class */;
+		rLen = 0;
+		rLoc = 9223372036854775807;
+		rType = 0;
+	};
+	EC982E29134B143F00B9165B /* LTPDAPreferences.class */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = compiled.javaclass;
+		name = LTPDAPreferences.class;
+		path = "/Users/MH/Matlab/ltpda_cvs/software/m-toolbox/jar/MPipeline/mpipeline/ltpdapreferences/LTPDAPreferences.class";
+		sourceTree = "<absolute>";
+	};
+	EC982E2A134B143F00B9165B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EC982E2B134B143F00B9165B /* LTPDAPreferences.class */;
+		name = "LTPDAPreferences.class: 37";
+		rLen = 12;
+		rLoc = 1182;
+		rType = 0;
+		vrLen = 585;
+		vrLoc = 1038;
+	};
+	EC982E2B134B143F00B9165B /* LTPDAPreferences.class */ = {
+		isa = PBXFileReference;
+		name = LTPDAPreferences.class;
+		path = "/Users/MH/Matlab/ltpda_cvs/software/m-toolbox/jar/MPipeline/mpipeline/ltpdapreferences/LTPDAPreferences.class";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 1802}}";
+			sepNavSelRange = "{1182, 12}";
+			sepNavVisRange = "{1038, 585}";
+		};
+	};
+}

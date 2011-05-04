@@ -1,0 +1,89 @@
+THello_World
+v7
+r0
+t318960831.049982
+cCheck dependencies
+cCompileC build/Hello_World.build/Debug/Hello_World.build/Objects-normal/x86_64/main.o /Users/MH/Cpp/Hello_World/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd /Users/MH/Cpp/Hello_World/build/Debug/Hello_World normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004D48185700000000000000EE
+t1296570455
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004BBD2CE90000000000004174
+t1270689001
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h
+c000000004BBD2CE90000000000001731
+t1270689001
+s5937
+
+N/Users/MH/Cpp/Hello_World/build/Debug/Hello_World
+t1297268029
+s11312
+
+N/Users/MH/Cpp/Hello_World/build/Hello_World.build/Debug/Hello_World.build/Objects-normal/x86_64/Hello_World.LinkFileList
+c000000004CCFE1110000000000000067
+t1288691985
+s103
+
+N/Users/MH/Cpp/Hello_World/build/Hello_World.build/Debug/Hello_World.build/Objects-normal/x86_64/main.o
+t1297267814
+s69212
+
+N/Users/MH/Cpp/Hello_World/build/Hello_World.build/Debug/Hello_World.build/Objects-normal/x86_64/main.s
+t1297267800
+s336791
+
+N/Users/MH/Cpp/Hello_World/main.cpp
+c000000004D52BB000000000000000203
+t1297267456
+s515
+i<iostream>
+i<stdio.h>
+i<vector>
+i<string>
+
+C<C0003:'CompileC main.o':P8:W0>
+s318960600.072477
+e318960600.579999
+r1
+xCompileC
+xbuild/Hello_World.build/Debug/Hello_World.build/Objects-normal/x86_64/main.o
+x/Users/MH/Cpp/Hello_World/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@42"Compile /Users/MH/Cpp/Hello_World/main.cpp318960600#318960600#0(0"0(0#0#34"/Users/MH/Cpp/Hello_World/main.cpp15200056767807544#1220"    cd /Users/MH/Cpp/Hello_World    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/MH/Cpp/Hello_World/build/Hello_World.build/Debug/Hello_World.build/Hello_World-generated-files.hmap -I/Users/MH/Cpp/Hello_World/build/Hello_World.build/Debug/Hello_World.build/Hello_World-own-target-headers.hmap -I/Users/MH/Cpp/Hello_World/build/Hello_World.build/Debug/Hello_World.build/Hello_World-all-target-headers.hmap -iquote /Users/MH/Cpp/Hello_World/build/Hello_World.build/Debug/Hello_World.build/Hello_World-project-headers.hmap -F/Users/MH/Cpp/Hello_World/build/Debug -I/Users/MH/Cpp/Hello_World/build/Debug/include -I/Users/MH/Cpp/Hello_World/build/Hello_World.build/Debug/Hello_World.build/DerivedSources/x86_64 -I/Users/MH/Cpp/Hello_World/build/Hello_World.build/Debug/Hello_World.build/DerivedSources -S /Users/MH/Cpp/Hello_World/main.cpp -o /Users/MH/Cpp/Hello_World/build/Hello_World.build/Debug/Hello_World.build/Objects-normal/x86_64/main.s0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies318960831#318960831#0(0"0(0#1#0"8629354240#0"0#
+
+CCompileC build/Hello_World.build/Debug/Hello_World.build/Objects-normal/x86_64/main.o /Users/MH/Cpp/Hello_World/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s318960614.422502
+e318960614.817784
+r1
+xCompileC
+xbuild/Hello_World.build/Debug/Hello_World.build/Objects-normal/x86_64/main.o
+x/Users/MH/Cpp/Hello_World/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@42"Compile /Users/MH/Cpp/Hello_World/main.cpp318960614#318960614#0(0"0(0#0#34"/Users/MH/Cpp/Hello_World/main.cpp7809643567100341248#1220"    cd /Users/MH/Cpp/Hello_World    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/MH/Cpp/Hello_World/build/Hello_World.build/Debug/Hello_World.build/Hello_World-generated-files.hmap -I/Users/MH/Cpp/Hello_World/build/Hello_World.build/Debug/Hello_World.build/Hello_World-own-target-headers.hmap -I/Users/MH/Cpp/Hello_World/build/Hello_World.build/Debug/Hello_World.build/Hello_World-all-target-headers.hmap -iquote /Users/MH/Cpp/Hello_World/build/Hello_World.build/Debug/Hello_World.build/Hello_World-project-headers.hmap -F/Users/MH/Cpp/Hello_World/build/Debug -I/Users/MH/Cpp/Hello_World/build/Debug/include -I/Users/MH/Cpp/Hello_World/build/Hello_World.build/Debug/Hello_World.build/DerivedSources/x86_64 -I/Users/MH/Cpp/Hello_World/build/Hello_World.build/Debug/Hello_World.build/DerivedSources -c /Users/MH/Cpp/Hello_World/main.cpp -o /Users/MH/Cpp/Hello_World/build/Hello_World.build/Debug/Hello_World.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/MH/Cpp/Hello_World/build/Debug/Hello_World normal x86_64
+s318960829.181279
+e318960829.253554
+r1
+xLd
+x/Users/MH/Cpp/Hello_World/build/Debug/Hello_World
+xnormal
+xx86_64
+lSLF07#2@54"Link /Users/MH/Cpp/Hello_World/build/Debug/Hello_World318960829#318960829#0(0"0(0#0#0"8629597696#449"    cd /Users/MH/Cpp/Hello_World    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/MH/Cpp/Hello_World/build/Debug -F/Users/MH/Cpp/Hello_World/build/Debug -filelist /Users/MH/Cpp/Hello_World/build/Hello_World.build/Debug/Hello_World.build/Objects-normal/x86_64/Hello_World.LinkFileList -mmacosx-version-min=10.6 -o /Users/MH/Cpp/Hello_World/build/Debug/Hello_World0#
+
